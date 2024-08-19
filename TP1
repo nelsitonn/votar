@@ -1,0 +1,17 @@
+//Este es el main
+
+package tp1;
+
+public class TP1 {
+
+    public static void main(String[] args) {
+        
+        RazasPerros.crearListaRazas();
+        
+        System.out.println("Razas de perros guardadas: ");
+
+      
+        
+    }
+    
+}
